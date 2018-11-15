@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Global.asax](./CS/T190761/Global.asax) (VB: [Global.asax](./VB/T190761/Global.asax))
+* [Global.asax.cs](./CS/T190761/Global.asax.cs) (VB: [Global.asax](./VB/T190761/Global.asax))
+* [SchedulerForm.aspx](./CS/T190761/SchedulerForm.aspx) (VB: [SchedulerForm.aspx](./VB/T190761/SchedulerForm.aspx))
+* [SchedulerForm.aspx.cs](./CS/T190761/SchedulerForm.aspx.cs) (VB: [SchedulerForm.aspx](./VB/T190761/SchedulerForm.aspx))
+* [StorageForm.aspx](./CS/T190761/StorageForm.aspx) (VB: [StorageForm.aspx](./VB/T190761/StorageForm.aspx))
+* [StorageForm.aspx.cs](./CS/T190761/StorageForm.aspx.cs) (VB: [StorageForm.aspx](./VB/T190761/StorageForm.aspx))
+<!-- default file list end -->
 # How to use reminders on a web form without the scheduler control
 
 
